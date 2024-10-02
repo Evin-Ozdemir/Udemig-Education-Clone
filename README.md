@@ -8,7 +8,6 @@
 
 ![Zight Recording 2024-10-02 at 01 48 25 PM](https://github.com/user-attachments/assets/ace92327-257f-4da2-93ca-968fd531b5b1)
 
-
 <h2>🛠️ Technologies Used</h2>
  <ul>
    <li>HTML5: To build the structure and layout.</li>
